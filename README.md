@@ -1,4 +1,4 @@
-# Watt-s-Next-
+# Watts Next
 
 Imagine a world where every building, factory, and even your home, could predict its energy needs with remarkable accuracy. This foresight would empower us to optimize consumption, minimize waste, and collectively combat climate change. That's the vision behind watt's Next - my AI-powered platform that forecasts energy consumption and CO2 emissions in your region.
 
